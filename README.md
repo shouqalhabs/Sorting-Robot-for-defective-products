@@ -22,7 +22,7 @@ The robot monitors a conveyor belt carrying packaged food items. Using a high-re
 
 ## Demo
 
-[Sorting Robot design sketch](https://creativeschoolarabia.com/wp-content/uploads/2021/03/moon-50k.jpg)
+![Sorting Robot design sketch](https://github.com/shouqalhabs/Sorting-Robot-for-defective-products/blob/main/sorting_robot_sketch.jpg?raw=true)
 
 ---
 
